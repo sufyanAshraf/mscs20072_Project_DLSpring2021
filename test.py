@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 21 17:02:46 2020
-
-@author: sufyan
-"""
 
 import cv2
 from tensorflow.keras.models import model_from_json
